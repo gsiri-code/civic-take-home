@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-hover-card": "^1.1.13",
     "@udecode/cn": "^47.3.1",
     "@udecode/plate": "^48.0.1",
     "@udecode/plate-basic-elements": "^48.0.0",
@@ -18,7 +19,9 @@
     "@udecode/plate-heading": "^48.0.0",
     "@udecode/plate-highlight": "^48.0.0",
     "@udecode/plate-horizontal-rule": "^48.0.0",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "lucide-react": "^0.507.0",
     "next": "15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -37,6 +40,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.3.1",
     "tailwindcss": "^4",
+    "tw-animate-css": "^1.2.9",
     "typescript": "^5"
   }
 }
