@@ -1,6 +1,5 @@
 # George Sirichartchai Civic Take Home Submission
-
-![project gif]('https://github.com/gsiri-code/civic-take-home/blob/main/assets/screen_recording.gif?raw=true')
+![project gif]('https://raw.githubusercontent.com/gsiri-code/civic-take-home/main/assets/screen_recording.gif')
 
 ## Installation
 ```bash
