@@ -1,10 +1,8 @@
-import BasicEditorStylingDemo from "@/components/editor";
+import UserTextEditor from "@/components/userTextEditor";
 export default function Home() {
-
-
-  return (<>
-    <BasicEditorStylingDemo/>j
-
-  </>
+  return (
+    <>
+      <UserTextEditor />j
+    </>
   );
 }
